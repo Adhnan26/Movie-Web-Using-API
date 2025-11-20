@@ -60,7 +60,7 @@ Built as part of my learning journey at Error Makes Clever (EMC) using the EMC T
 ~ Search + filters run on existing state
 ~ Pagination changes API page dynamically
 
-🔗 Live Project : []
+🔗 Live Project : [ movie-web-using-api.vercel.app ]
 
 💻 GitHub Repository : [ https://github.com/Adhnan26/Movie-Web-Using-API/tree/main ]
 
